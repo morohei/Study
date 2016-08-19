@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ignore_target_file merge=ours
+=======
+index.html merge=ours
+>>>>>>> 55c68ac70e179afdc3cad86ea87427db07d62a33
